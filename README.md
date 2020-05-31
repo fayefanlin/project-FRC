@@ -6,4 +6,4 @@ Financial Risk Control-Predict whether the customer will default on the loan
 
 每个样本有45个特征
 
-使用了wide、deep、wide-depp三种方法进行风险预测
+使用了逻辑回归、dnn、wide-depp三种方法进行风险预测
