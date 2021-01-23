@@ -7,3 +7,5 @@ Financial Risk Control-Predict whether the customer will default on the loan
 每个样本有45个特征
 
 使用了逻辑回归、dnn、wide-deep三种方法进行风险预测
+
+wide-deep方法的准确率以及召回率均最高
